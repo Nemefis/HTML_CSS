@@ -1,5 +1,23 @@
+body {
+    font-size: 50px;
+}
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.bold {
+    font-weight: bold;
+}
+p.lighter {
+    font-weight: lighter;
+}
+.sl {
+    font-weight: 100;
+}
+.s800 {
+    font-weight: 800;
+}
 p {
-    font-size: 4em;​
-    text-shadow:  10px   10px   35px   red,   0px   0px   8px   black;​
-    color: #ffffff;​
+    text-shadow: -50px 5px 10px red, 10px 10px 10px black;
+    color: white;
+    letter-spacing: 10px;
 }
